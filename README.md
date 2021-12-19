@@ -1,4 +1,4 @@
-# ConvertHEIC to png
+# Convert HEIC to png
 
 1. Put your HEIC files into the folder `HEIC`
 
