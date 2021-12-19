@@ -1,0 +1,1 @@
+# Put your HEIC files here.
